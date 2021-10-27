@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Modul 2 MDP KELOMPOK 17</string>
+    <string name="janet">Janet</string>
+    <string name="example_email">Email : xys123@gmail.com</string>
+    <string name="get_data_dari_rest_api">Get Data dari Rest API</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="peggy_raihannisa_zakiyyahannas">Peggy Raihannisa Zakiyyahannas</string>
+    <string name="nim">21120119130111</string>
+    <string name="kelompok_17">Kelompok 17</string>
+</resources>

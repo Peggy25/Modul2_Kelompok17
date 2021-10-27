@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/layout/activity_about.xml" value="0.25677083333333334" />
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/layout/activity_detail.xml" value="0.13949275362318841" />
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/layout/activity_lannding_page.xml" value="0.1484375" />
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/layout/activity_splash.xml" value="0.13949275362318841" />
+        <entry key="..\:/AndroidStudioProjects/Modul2_Kelompok17/app/src/main/res/menu/menu_top.xml" value="0.25677083333333334" />
+        <entry key="..\:/Kumpulan File Kuliah/Modul2_Kelompok17/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/drawable/bg_btn_blue.xml" value="0.16203703703703703" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/font/roboto_bold.xml" value="0.16203703703703703" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/activity_lannding_page.xml" value="0.1" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/activity_splash.xml" value="0.10144927536231885" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/button_style.xml" value="0.1" />
+        <entry key="..\:/Kumpulan File Kuliah/PRAKTIKUM 2021/Modul2_Kelompok17/app/src/main/res/layout/item_rv_list_user.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/drawable/bg_btn_blue.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/drawable/bg_header_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/activity_lannding_page.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/item_container_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Downloads/Modul2_Kelompok17/app/src/main/res/layout/item_rv_list_user.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
